@@ -16,7 +16,7 @@ jobs:
   # JOB 1 - CI : BUILD + PUSH + SCAN
   # ===============================
   ci:
-    runs-on: ubuntu-latest
+    runs-on: [OUMOUAGAICHA]
 
     steps:
       - name: Checkout source code
