@@ -55,7 +55,7 @@ jobs:
 #           vuln-type: os,library
 #           ignore-unfixed: true
 
-  # ===============================
+  ## ===============================
   # JOB 2 - CD : DEPLOY
   # ===============================
   deploy:
